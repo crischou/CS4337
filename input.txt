@@ -1,0 +1,8 @@
+1;
+print "Hello World\n";
+get int x;
+print "Enter a name: ";
+get String name;
+72 % 5;
+5 >= 4;
+print name;

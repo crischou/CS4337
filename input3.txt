@@ -1,0 +1,14 @@
+print "Enter your name: ";
+get String name;
+print "Enter a number: ";
+get int x;
+print "Enter 1 more number: ";
+get int y;
+print name;
+print "\n";
+print x;
+print " ";
+print y;
+print "\n";
+x + y;
+x * y;
